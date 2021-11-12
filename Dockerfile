@@ -1,4 +1,4 @@
-FROM vaishna12/tomcat
+FROM vaishna12/tomcatuidemo
 LABEL Author="prabu"
 LABEL description="Use dockertomcat image as base image for dockertomcat deployment"
 USER root
